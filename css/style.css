@@ -1,0 +1,10 @@
+form{
+	text-align: center;
+}
+
+div{
+	background: #ff3300;
+	display: inline-block;
+	clear: both;
+	border-radius: 5px;
+}
